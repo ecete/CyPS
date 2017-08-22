@@ -1,5 +1,4 @@
-package estructura;
-import javax.swing.*;
+
 public class BorrarLinea 
 {
 	public static void main (String [] args)
@@ -21,6 +20,6 @@ public class BorrarLinea
                 while (pila.pilaVacia() == false)
                 	pila.pop();
 	    } 
-	    pila.imprimir();
+	
 	}    
 }
